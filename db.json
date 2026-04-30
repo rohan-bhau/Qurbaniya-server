@@ -13,7 +13,7 @@
           "age": 3,
           "location": "Bogura",
           "description": "This healthy deshi cow is raised with natural খাবার and proper care. It has a strong body structure and is well-suited for Qurbani. নিয়মিত খাওয়ানো ও পরিচর্যার কারণে এটি সম্পূর্ণ সুস্থ এবং প্রস্তুত।",
-          "image": "https://images.unsplash.com/photo-1601758125946-6ec2ef64daf8"
+          "image": "https://i.ibb.co.com/3yhpXqJZ/cow1.jpg"
         },
         {
           "id": 2,
@@ -24,7 +24,7 @@
           "age": 4,
           "location": "Dhaka",
           "description": "Imported Australian breed cow with excellent health and large body size. It is raised with high-quality feed and proper farm management. Ideal for those looking for premium Qurbani animals.",
-          "image": "https://images.unsplash.com/photo-1598514982683-86c3f7d4b57b"
+          "image": "https://i.ibb.co.com/C53hN4PN/cow2.jpg"
         },
         {
           "id": 3,
@@ -35,7 +35,7 @@
           "age": 3.5,
           "location": "Rajshahi",
           "description": "Sahiwal breed is known for its meat quality and strong health condition. This cow is well-fed and properly maintained in a clean environment. Suitable for medium to large Qurbani needs.",
-          "image": "https://images.unsplash.com/photo-1500595046743-cd271d694d30"
+          "image": "https://i.ibb.co.com/WTpwpkH/cow3.jpg"
         },
         {
           "id": 4,
@@ -46,7 +46,7 @@
           "age": 4,
           "location": "Chattogram",
           "description": "Large Friesian cow with impressive weight and strong build. নিয়মিত পুষ্টিকর খাবার ও যত্নের মাধ্যমে এটি বড় করা হয়েছে। Perfect for high-budget Qurbani buyers.",
-          "image": "https://images.unsplash.com/photo-1583337130417-3346a1be7dee"
+          "image": "https://i.ibb.co.com/Xxbbm1J7/cow4.jpg"
         },
         {
           "id": 5,
@@ -57,7 +57,7 @@
           "age": 2.5,
           "location": "Khulna",
           "description": "This medium-sized deshi cow is perfect for small families. It is healthy, সক্রিয় এবং ভালোভাবে লালন-পালন করা হয়েছে। Budget-friendly yet reliable option for Qurbani.",
-          "image": "https://images.unsplash.com/photo-1561484930-998b6a7b22e8"
+          "image": "https://i.ibb.co.com/hxpP5SZH/cow5.jpg"
         },
         {
           "id": 6,
@@ -68,7 +68,7 @@
           "age": 5,
           "location": "Sylhet",
           "description": "Strong Brahman breed cow with high durability and large body size. It is raised under expert supervision and proper feeding schedule. Best choice for premium Qurbani.",
-          "image": "https://images.unsplash.com/photo-1548767797-d8c844163c4c"
+          "image": "https://i.ibb.co.com/hRJff9G0/cow6.jpg"
         }
       ]
     },
@@ -86,7 +86,7 @@
           "age": 1.5,
           "location": "Rajshahi",
           "description": "Black Bengal goat is widely popular for its tender meat and strong immunity. এটি স্থানীয়ভাবে পালন করা হয়েছে এবং সম্পূর্ণ সুস্থ। Ideal for small Qurbani.",
-          "image": "https://images.unsplash.com/photo-1583337130417-3346a1be7dee"
+          "image": "https://i.ibb.co.com/WNgvJksw/goat1.jpg"
         },
         {
           "id": 8,
@@ -97,7 +97,7 @@
           "age": 2,
           "location": "Dhaka",
           "description": "Jamunapari goat is known for its tall structure and সুন্দর চেহারা। Proper nutrition and care ensure its healthy growth. ভালো মানের Qurbani এর জন্য উপযুক্ত।",
-          "image": "https://images.unsplash.com/photo-1561484930-998b6a7b22e8"
+          "image": "https://i.ibb.co.com/8gxdjQw8/goat2.jpg"
         },
         {
           "id": 9,
@@ -108,7 +108,7 @@
           "age": 2,
           "location": "Khulna",
           "description": "Beetal goat with ভালো ওজন এবং শক্তিশালী শরীর। It is raised in a clean farm environment with balanced feeding. Suitable for medium Qurbani needs.",
-          "image": "https://images.unsplash.com/photo-1601758125946-6ec2ef64daf8"
+          "image": "https://i.ibb.co.com/svLqjHgg/goat3.webp"
         },
         {
           "id": 10,
@@ -119,7 +119,7 @@
           "age": 1.2,
           "location": "Barishal",
           "description": "Affordable deshi goat raised with natural খাবার। Healthy, active, and ভালো condition এ আছে। Best choice for budget Qurbani.",
-          "image": "https://images.unsplash.com/photo-1500595046743-cd271d694d30"
+          "image": "https://i.ibb.co.com/wF0dW8pd/goat4.jpg"
         },
         {
           "id": 11,
@@ -130,7 +130,7 @@
           "age": 2.5,
           "location": "Sylhet",
           "description": "Premium Kashmiri goat with thick fur and strong health condition. Properly maintained and fed regularly. High-quality option for Qurbani buyers.",
-          "image": "https://images.unsplash.com/photo-1598514982683-86c3f7d4b57b"
+          "image": "https://i.ibb.co.com/KxFzZNQ5/goat5.jpg"
         },
         {
           "id": 12,
@@ -141,7 +141,7 @@
           "age": 1.8,
           "location": "Bogura",
           "description": "Hybrid goat with fast growth and balanced body weight. নিয়মিত যত্ন ও সঠিক খাবার দেওয়া হয়েছে। Reliable and popular choice for Qurbani.",
-          "image": "https://images.unsplash.com/photo-1548767797-d8c844163c4c"
+          "image": "https://i.ibb.co.com/6cV5kgr3/goat6.jpg"
         }
       ]
     },
@@ -159,7 +159,7 @@
           "age": 1.2,
           "location": "Barishal",
           "description": "Local sheep raised in গ্রামের পরিবেশে। Healthy and ভালোভাবে লালন-পালন করা হয়েছে। Small Qurbani এর জন্য উপযুক্ত।",
-          "image": "https://images.unsplash.com/photo-1548767797-d8c844163c4c"
+          "image": "https://i.ibb.co.com/0RnW9KP6/sheep1.jpg"
         },
         {
           "id": 14,
@@ -170,7 +170,7 @@
           "age": 1.5,
           "location": "Khulna",
           "description": "Garole breed sheep known for its শক্তিশালী রোগ প্রতিরোধ ক্ষমতা। It is properly maintained and healthy. Suitable for medium Qurbani.",
-          "image": "https://images.unsplash.com/photo-1561484930-998b6a7b22e8"
+          "image": "https://i.ibb.co.com/YFDrzTrz/sheep2.jpg"
         },
         {
           "id": 15,
@@ -181,7 +181,7 @@
           "age": 2,
           "location": "Dhaka",
           "description": "Merino sheep with high-quality wool and ভালো শারীরিক গঠন। Proper feeding ensures its health and growth. Premium Qurbani option.",
-          "image": "https://images.unsplash.com/photo-1500595046743-cd271d694d30"
+          "image": "https://i.ibb.co.com/BKQQBMqp/sheep3.jpg"
         },
         {
           "id": 16,
@@ -192,7 +192,7 @@
           "age": 1.7,
           "location": "Rajshahi",
           "description": "Hybrid sheep with balanced growth and ভালো ওজন। It is raised under proper care and feeding. Suitable for medium-level Qurbani.",
-          "image": "https://images.unsplash.com/photo-1601758125946-6ec2ef64daf8"
+          "image": "https://i.ibb.co.com/9Hhz1C05/sheep4.webp"
         },
         {
           "id": 17,
@@ -203,7 +203,7 @@
           "age": 2,
           "location": "Sylhet",
           "description": "Fat Tail sheep known for rich meat quality and ভালো স্বাস্থ্য। Properly fed and maintained. Ideal for quality Qurbani experience.",
-          "image": "https://images.unsplash.com/photo-1598514982683-86c3f7d4b57b"
+          "image": "https://i.ibb.co.com/2YHFBrx0/sheep5.webp"
         },
         {
           "id": 18,
@@ -214,7 +214,7 @@
           "age": 1.8,
           "location": "Chattogram",
           "description": "Premium local sheep raised with extra care and ভালো খাবার। Healthy, active, and ready for Qurbani. Reliable choice for buyers.",
-          "image": "https://images.unsplash.com/photo-1583337130417-3346a1be7dee"
+          "image": "https://i.ibb.co.com/chW0VFmz/sheep6.jpg"
         }
       ]
     }
